@@ -3,13 +3,13 @@
   "short_name": "NFitness",
   "icons": [
     {
-      "src": "/nourfitness/web-app-manifest-192x192.png",
+      "src": "/nour-fitness-v2/public/nfitness.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/nourfitness/web-app-manifest-512x512.png",
+      "src": "/nour-fitness-v2/public/NourFitness.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
